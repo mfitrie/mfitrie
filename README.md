@@ -12,7 +12,7 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![BASH](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
+  ![BASH](https://img.shields.io/badge/-Bash-333333?style=flat&logo=ubuntu)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://fitdev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fitdev.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/muhammad-fitrie-a88472199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fitrie-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mfitrie78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mfitrie78@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
