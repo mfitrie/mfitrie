@@ -17,11 +17,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Pug](https://img.shields.io/badge/-PUG-333333?style=flat&logo=pug)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
