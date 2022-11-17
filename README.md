@@ -33,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij%20idea)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android%20studio)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 - 🖥 &nbsp;
   ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe%20premiere%20pro)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe%20xd)
