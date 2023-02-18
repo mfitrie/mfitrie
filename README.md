@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Universiti Teknologi Mara (UITM).
-- 💼 &nbsp; Working as a Web Development Intern at ThunderQuote.
+- 💼 &nbsp; Working as a Web Development at ThunderQuote.
 - 🌱 &nbsp; Learning more about Full Stack Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
