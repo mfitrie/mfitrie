@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Universiti Teknologi Mara (UITM).
-- 💼 &nbsp; Working as a Web Development at ThunderQuote.
+- 💼 &nbsp; Working as a Junior Web Developer at ThunderQuote.
 - 🌱 &nbsp; Learning more about Full Stack Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -28,6 +28,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
+  ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
