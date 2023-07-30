@@ -46,6 +46,7 @@
 - 🖥 &nbsp;
   ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe%20premiere%20pro)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe%20xd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
 
