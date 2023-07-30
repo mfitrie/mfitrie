@@ -29,9 +29,11 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
   ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
