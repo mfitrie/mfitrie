@@ -18,6 +18,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Pug](https://img.shields.io/badge/-PUG-333333?style=flat&logo=pug)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
