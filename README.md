@@ -31,6 +31,7 @@
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
   ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
