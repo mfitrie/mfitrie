@@ -54,13 +54,6 @@
 
 <br/>
 
-<a href="https://github.com/mfitrie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfitrie&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfitrie&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
