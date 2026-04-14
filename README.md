@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Into DevOps, system design, algorithm.
 - 💼 &nbsp; Working as a Full-Stack Developer.
-- 🌱 &nbsp; Learning more about Full Stack Web Development.
 - 🎓 &nbsp; Certified Kubernetes Administrator
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -60,7 +59,4 @@
 <a href="https://fitrie.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fitrie.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/muhammad-fitrie-a88472199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fitrie-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mfitrie78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mfitrie78@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mfitrie&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</a>
 </p>
