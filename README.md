@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technology at Universiti Teknologi Mara (UITM).
-- 💼 &nbsp; Working as a Junior Web Developer at ThunderQuote.
+- 🤔 &nbsp; Into DevOps, system design, algorithm.
+- 💼 &nbsp; Working as a Full-Stack Developer.
 - 🌱 &nbsp; Learning more about Full Stack Web Development.
+- 🎓 &nbsp; Certified Kubernetes Administrator
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
