@@ -56,7 +56,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://fitrie.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fitrie.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://fitrie.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fitrie.vercel.app-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/muhammad-fitrie-a88472199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fitrie-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mfitrie78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mfitrie78@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
